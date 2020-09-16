@@ -1,0 +1,3 @@
+replica: 1
+image: machiniwala/pluralsight-docker-ci
+nodePort: 30158
